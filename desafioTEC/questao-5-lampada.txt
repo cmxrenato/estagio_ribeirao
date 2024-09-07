@@ -1,0 +1,12 @@
+
+
+Esse problema envolve lógica com a questão do calor das lâmpadas.
+Eu faria o seguinte:
+    Ligaria o primeiro interruptor por alguns minutos até dar o tempo da lâmpada aquecer e
+    então o desligaria.
+    Em seguida, ligaria o segundo interruptor e iria à sala com a luz acesa, então
+    o segundo interruptor era o daquela sala.
+    Depois, iria em outra sala qualquer, se a lâmpada estivesse quente, então
+    saberia que tinha sido o interruptor primeiro, que havia ligado e depois desligado.
+    Contudo, se a lâmpada estivesse fria, então aquela sala com certeza pertenceria ao interruptor
+    terceiro.
